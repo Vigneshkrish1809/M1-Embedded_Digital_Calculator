@@ -76,4 +76,5 @@ A calculator is a device that performs numerical operations. The features of thi
 # Design
 
 ## Structural Diagram
-![Structural Diagram](https://user-images.githubusercontent.com/88921546/144279437-d2cb3a4d-b382-469b-9472-
+![Structural diagram](https://user-images.githubusercontent.com/70203719/144437274-1bf18ed9-66fc-4f6c-a9ca-d9e45fbb84de.png)
+
