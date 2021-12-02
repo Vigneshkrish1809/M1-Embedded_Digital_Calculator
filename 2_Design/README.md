@@ -12,9 +12,11 @@
 
 ## Simulations
 ### ON Activity
-![ON](https://user-images.githubusercontent.com/70203719/144438269-1953ab12-6f7f-4a88-9e3b-4036b97807a2.png)
+![ON Activity](https://user-images.githubusercontent.com/70203719/144440047-8c159034-4719-4c4a-a735-378ad060bc7d.png)
+
 
 
 ### OFF Activity
-![OFF](https://user-images.githubusercontent.com/70203719/144438296-43d922c3-9646-444f-bb6d-888e5b111225.png)
+![OFF activity](https://user-images.githubusercontent.com/70203719/144440065-fa6aa4cf-d58b-42b4-94e5-fbb989436552.png)
+
 
