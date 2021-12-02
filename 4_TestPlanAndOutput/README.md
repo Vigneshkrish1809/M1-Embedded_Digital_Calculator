@@ -9,10 +9,10 @@
 ## Low level test plan
 |Test ID | Description | Exp I/P | Exp O/P | Actual Out | Type of Test
 |--------|-------------|---------|---------|------------|-------------
-| LLR_01 | '+' operation | (40, 50) | 90 | 90 | Requirement Based        
-| LLR_02 | '-' operation | (70, 20) | 50 | 50 | Requirement Based        
-| LLR_03 | '*' operation | (5, 5) | 25 | 25 | Requirement Based         
-| LLR_04 | '/' operation | (24, 2) | 12 | 12 | Requirement Based
+| LLR_01 | '+' operation | (1,3) | 4 | 4 | Requirement Based        
+| LLR_02 | '-' operation | (6,3) | 3 | 3 | Requirement Based        
+| LLR_03 | '*' operation | (9,2) | 18 | 18 | Requirement Based         
+| LLR_04 | '/' operation | (7,3) | 2 | 2 | Requirement Based
 
 ## Output
 ### '+' Operation 
