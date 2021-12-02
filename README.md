@@ -16,7 +16,7 @@ This mini project is based on a basic calculator using keypad and LCD interfacin
 ## Badges
 |Build|Cppcheck|Codacy|
 |:--:|:--:|:--:|
-[![Build Status](https://github.com/kavinvignes/M2-Embedded-BasicCalculator/actions/workflows/compile.yml/badge.svg)](https://github.com/kavinvignes/M2-Embedded-BasicCalculator/actions/workflows/compile.yml) | [![Cppcheck](https://github.com/kavinvignes/M2-Embedded-BasicCalculator/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/kavinvignes/M2-Embedded-BasicCalculator/actions/workflows/cppcheck.yml) | [![Codacy Badge](https://app.codacy.com/project/badge/Grade/af79dd8fa1354b57808417676caee9d8)](https://www.codacy.com/gh/kavinvignes/M2-Embedded-BasicCalculator/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=kavinvignes/M2-Embedded-BasicCalculator&amp;utm_campaign=Badge_Grade)
+ [![Cppcheck](https://github.com/kavinvignes/M2-Embedded-BasicCalculator/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/kavinvignes/M2-Embedded-BasicCalculator/actions/workflows/cppcheck.yml) |[![Codacy Badge](https://app.codacy.com/project/badge/Grade/d26f0919cfad44879aa3832a61623852)](https://www.codacy.com/gh/Vigneshkrish1809/M1-Embedded_Digital_Calculator/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Vigneshkrish1809/M1-Embedded_Digital_Calculator&amp;utm_campaign=Badge_Grade)
 
 ## Folder Structure
 Folder             | Description
@@ -32,7 +32,7 @@ Folder             | Description
 
 PS No. |  Name   |    Features    | Issuess Raised |Issues Resolved|No Test Cases|Test Case Pass
 -------|---------|----------------|----------------|---------------|-------------|--------------
-`40020494` | Kavin Vignes J K | F1, F2 ,F3 and F4  | Nil | Nil | 4 | 4   
+`40020494` | Vignesh M | F1, F2 ,F3 and F4  | Nil | Nil | 4 | 4   
 
 ## Features
 ID | Description
