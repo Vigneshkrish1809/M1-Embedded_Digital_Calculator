@@ -1,9 +1,8 @@
 # Requirements
 
 ## Introduction
-* The purpose of the project is to build a basic calculator based on Atmega328 microcontroller. This basic calculator which can perform Signed operations on 64bits numbers with max of two different math symbols or any number of operands but with the same math symbol. It uses 4×4 matrix keyboard. The result of calculation displayed on 16×2 LCD.   
-
-* An LCD module can be interfaced with a microcontroller either in 8 bit mode or in 4 bit mode. 8 bit mode is the conventional mode which uses 8 data lines and RS, R/W, E pins for functioning. However 4 bit mode uses only 4 data lines along with the control pins. This will saves the number of GPIO pins needed for other purpose.
+* This calculator could perform simple operations like Addition, Subtraction, Multiplication and Division with whole numbers. But once you understand the concept you can implement even scientific functions with Arduino’s built in functions.
+* The values can be sent in through a keypad (4×4 keypad) and result can be viewed on a LCD screen (16×2 Dot-matrix)
 ## Components Used
 1.  4*4 Keypad Interface
 2.  16*2 LCD Interface
@@ -14,7 +13,7 @@
 2.  Visual Studio Code
 
 ## Cost and Feature
-The cost of the hardware and software design is fixed and one-time investment only.
+The cost was fixed and it is a one time investment
 
 A calculator is a device that performs numerical operations. The features of this basic calculator can perform 
 1.  Addition
@@ -23,12 +22,12 @@ A calculator is a device that performs numerical operations. The features of thi
 4.  Division
 ## SWOT Analysis
 ### Strength
-1.  The ultimate strength of calculators is its innovative and user-friendly.
-2.  Calculators are long-lasting, and they have almost all kinds of basic numerical operations.
+1.  It is easy to operate and user friendly.
+2.  It can perform basic operations constantly.
 
 ### Weaknesses
-1.  The storage capacity is low to store the previous operations.
-2.  Always power supply is needed for the calculator to perform an operation.
+1.  The storage capacity is very low
+2.  Power supply is necessary
 ### Opportunities
 1.  We can use a solar panel in calculators to reduce the power supply usage.
 2.  We can add some additional advanced to it.
@@ -42,7 +41,7 @@ A calculator is a device that performs numerical operations. The features of thi
 
 ### Where
 1.  The calculator can be operated from anywhere.
-2.  It can be used in our daily lives.
+2.  It can be used while doing maths
 
 ### Who
 1.  Can be used by anyone is required to solve a numerical operation.
@@ -55,6 +54,7 @@ A calculator is a device that performs numerical operations. The features of thi
 ### How
 1.  Giving different inputs we can find their desired output.
 2.  The results of the calculators will be accurate than the manual calculations.
+
 
 ## Detail requirements
 ### High Level Requirements
