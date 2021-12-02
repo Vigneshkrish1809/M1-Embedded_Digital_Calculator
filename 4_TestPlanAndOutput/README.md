@@ -16,10 +16,13 @@
 
 ## Output
 ### '+' Operation 
-![Addition Operation](https://user-images.githubusercontent.com/88921546/144258089-6e223868-74ce-4208-b287-d57edb5acede.png)
+![Addition](https://user-images.githubusercontent.com/70203719/144436564-caec7b15-132d-4d0f-a180-6e0cede582c8.png)
+
 ### '-' Operation 
-![Subtraction Operation](https://user-images.githubusercontent.com/88921546/144258107-72d458b5-4a34-4d37-a814-72b9a5349020.png)
+![Subraction](https://user-images.githubusercontent.com/70203719/144436642-79062248-c136-4485-8bbb-41808dfb6711.png)
+
 ### '*' Operation 
-![Multiplication Operation](https://user-images.githubusercontent.com/88921546/144258148-d0d0995b-e5c6-4f14-938e-6c5a93591967.png)
+![Multiplication](https://user-images.githubusercontent.com/70203719/144436718-15c86fb5-daa6-4819-b140-dfcfe59c4e7f.png)
+
 ### '/' Operation 
-![Division Operation](https://user-images.githubusercontent.com/88921546/144258177-066fc78e-6698-4f68-b8bd-378b55f0e75d.png)
+![Division](https://user-images.githubusercontent.com/70203719/144436760-629f05f5-0e67-44fb-96c0-a64b85ba0d68.png)
